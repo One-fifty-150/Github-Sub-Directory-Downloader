@@ -1,4 +1,1 @@
-re
-requests
-pathlib
-argparse
+requests==2.26.0
